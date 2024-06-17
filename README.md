@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and Innovation.
 - 🌱 I’m currently learning DSA and ML algorithms.
 - 💞️ I’m looking to collaborate on DSA and ML
-- 📫 How to reach me ...@devu-13here
+- 📫 Hobbies : Novels/Music/Memes.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Only backspace knows the story. 
 
