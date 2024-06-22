@@ -10,4 +10,5 @@
 devu-13here/devu-13here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-stats)
+[![Devanjalis top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-stats)
+[![Devanjali's github streak](https://github-readme-streak-stats.herokuapp.com/?user=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-streak-stats)
