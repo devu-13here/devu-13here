@@ -1,4 +1,4 @@
-#######
+##
 👋 Hi, I’m Devanjali Patel
 ##
 - 👀 I’m interested in Tech and Innovation.
