@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Devanjalis top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-stats)
 ##
-##[![Devanjali's github streak](https://github-readme-streak-stats.herokuapp.com/?user=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-streak-stats)
+[![Devanjali's github streak](https://github-readme-streak-stats.herokuapp.com/?user=devu-13here&theme=blue-green)](https://github.com/devu-13here/github-readme-streak-stats)
