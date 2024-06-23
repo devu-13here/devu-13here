@@ -12,4 +12,6 @@
 [![Devanjali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devu-13here&theme=white)](https://github.com/devu-13here/github-readme-stats)
 ##
 [![Devanjali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devu-13here&theme=white)](https://github.com/devu-13here/github-readme-streak-stats)
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=devu-13here&theme=onedark)](https://github.com/devu-13here/github-profile-trophy)
 
