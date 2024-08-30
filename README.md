@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C,C++,SQL,Python,ML,DL**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dpatel_be22@thapar.edu</h3>
 <p align="left">
 </p>
 
