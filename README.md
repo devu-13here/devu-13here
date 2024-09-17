@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devu-13here" alt="devu-13here" /></a> </p>
 
 - 💬 Ask me about **C,C++,SQL,Python,ML,DL**
+-  currently at  **Room NO 13**
 
 <h3 align="left">Connect with me: dpatel_be22@thapar.edu</h3>
 <p align="left">
