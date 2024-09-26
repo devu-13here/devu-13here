@@ -6,7 +6,6 @@
 - "Who in war will not have his laugh amid the skulls?"
 
 
-<h3 align="left">Connect with me: dpatel_be22@thapar.edu</h3>
 <p align="left">
 </p>
 
