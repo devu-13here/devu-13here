@@ -1,58 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Devanjali Patel</h1>
+<h3 align="center">A passionate ML/DL enthusiast from India</h3>
 
-  <h1>👋 Hello, I'm Devanjali Patel!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devu-13here&label=Profile%20views&color=0e75b6&style=flat" alt="devu-13here" /> </p>
 
-  <p>🎓 <strong>3rd Year Computer Science Student at Thapar Institute of Engineering and Technology</strong> (Graduating 2026)</p>
-  <p>💻 <strong>Aspiring Data Scientist | AI-ML Developer | Tech Enthusiast</strong></p>
+- 💬 Ask me about **Python , C/C++**
 
-  <hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/devanjalipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanjalipatel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devanjali_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanjali_patel" height="30" width="40" /></a>
+</p>
 
-  <h2>👩‍💻 About Me</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-  <p>I am passionate about using machine learning and data science to solve real-world problems. Throughout my academic journey, I have worked on exciting projects ranging from natural language processing to recommendation systems. I enjoy learning about new technologies, working on creative projects, and contributing to open-source communities.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devu-13here&show_icons=true&locale=en&layout=compact" alt="devu-13here" /></p>
 
-  <ul>
-    <li>🏫 Currently studying advanced topics in computer science, including networking, machine learning, and AI.</li>
-    <li>📊 I enjoy working with data, building chatbots, and exploring new frameworks and libraries like <strong>Streamlit</strong>, <strong>Langchain</strong>, <strong>OpenAI</strong>, and <strong>ChromaDB</strong>.</li>
-  </ul>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devu-13here&show_icons=true&locale=en" alt="devu-13here" /></p>
 
-  <hr>
-
-  <h2>💡 Projects</h2>
-
-  <p>Here are some of the projects I’ve been working on:</p>
-
-  <ul>
-    <li><strong>Movie Recommendation Chatbot</strong>: A chatbot that recommends movies based on user input using NLP techniques such as TF-IDF and cosine similarity.</li>
-    <li><strong>Tweet Emotion Recognition</strong>: A machine learning project to detect emotions from tweet data using NLP.</li>
-    <li><strong>Claude Chatbot Project</strong>: Built using Streamlit and Anthropic’s Claude API to provide conversational AI features.</li>
-    <li><strong>Chatbot-Based Interaction with PDFs</strong>: Built a chatbot for interacting with documents using Langchain and Streamlit.</li>
-  </ul>
-
-  <p>Feel free to check out my repositories for more!</p>
-
-  <hr>
-
-  <h2>⚡ Tech Stack</h2>
-
-  <p>Here are some technologies I've been working with:</p>
-
-  <ul>
-    <li><strong>Programming Languages:</strong> Python, R, SQL</li>
-    <li><strong>Frameworks & Libraries:</strong> TensorFlow, Streamlit, Langchain, ggplot2, Scikit-Learn</li>
-    <li><strong>Tools:</strong> Git, Jupyter Notebooks, RStudio, VS Code</li>
-    <li><strong>Database & Storage:</strong> MySQL</li>
-  </ul>
-
- 
-  <p>⭐ Feel free to explore my repositories, and if you like my work, don’t forget to <strong>star</strong>! Thanks for visiting my profile 😊</p>
-
-</body>
-</html>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devu-13here&" alt="devu-13here" /></p>
