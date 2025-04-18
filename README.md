@@ -6,6 +6,7 @@
 </p>
 
 - 💬 Ask me about **Python, C/C++**
+- Currently: The Midnight Library
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
