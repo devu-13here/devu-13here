@@ -7,17 +7,6 @@
 
 - 💬 Ask me about **Python, C/C++**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/devanjalipatel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanjalipatel" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/devanjali_patel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanjali_patel" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
