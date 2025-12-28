@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devanjali Patel</h1>
 <h3 align="center">A passionate ML/DL enthusiast from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devu-13here&label=Profile%20views&color=0e75b6&style=flat" alt="devu-13here" />
-</p>
-
 - 💬 Ask me about **Python, C/C++**
 
 <h3 align="left">Languages and Tools:</h3>
